@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp74.laba9">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAEAAEAAAABAAAFAAAAAA=</HashCode>
+      <FileName>laba9.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp74.Post">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAAAAAAAAEhBAANAEAAAAEAAAABAAAECEAAiA=</HashCode>
+      <FileName>Post.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConsoleApp74.PostArray">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAACAAAAABAQAAEAAAABAQAAAAAAAA=</HashCode>
+      <FileName>PostArray.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
